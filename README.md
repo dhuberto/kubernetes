@@ -8,7 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-v18-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-v4-000000?logo=express&logoColor=white)
 
-# Laboratório de implantação 1 e 2 completa da aplicação **TodoList** em um cluster kubernetes (Kind), cobrindo os conceitos de Workloads,Acesso e Persistência de Dados
+# Laboratório de implantação completa da aplicação **TodoList** em um cluster kubernetes (Kind), cobrindo os conceitos de Workloads,Acesso e Persistência de Dados
 O **TodoList** é uma aplicação web para gerenciamento de listas de tarefas. Os usuários podem adicionar, concluir e remover itens, contando também com uma rotina automatizada de limpeza periódica via CronJob.
 
 ## Baixar o Projeto
